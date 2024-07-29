@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: 代码规范
       link: /code-standards/js-ts
+    - theme: alt
+      text: 经验分享
+      link: /expirents/code-habit
 
 features:
   - title: 规范
