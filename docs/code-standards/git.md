@@ -14,6 +14,10 @@
 |  `release` | 由 CI 发布的版本                               |
 | `refactor` | 重构                                           |
 
+特殊提交消息：
+
+- `init the project`：代表项目刚刚创建和初始化git仓库
+
 ## 分支名
 
 |           分支名称 | 用途                       |
@@ -26,8 +30,19 @@
 
 ## 项目名
 
-项目名使用大驼峰命名法，如 `MyProject`、`AwesomeProject`
+项目名使用小写字母+hyphen，如 `my-project`、`swesome-project`
 
 ## 仓库名
 
-仓库名=项目名+hyphen+版本，如 `MyProject`、`AwesomeProject-v2`
+仓库名=项目名+hyphen+版本，如 `my-project`、`awesome-project-v2`
+
+也有可能是多平台的名字
+
+仓库名=项目名+hyphen+平台名，如 `visual-file-qt`、`visual-file-vscode`
+
+如果是既有平台又有版本，平台名放在前面。
+
+
+
+
+
