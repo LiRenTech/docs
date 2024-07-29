@@ -10,6 +10,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '介绍', link: '/intro' },
       { text: '开发规范', link: '/code-standards/js-ts' },
+      { text: '经验分享', link: '/experience/code-habit' }
     ],
     sidebar: [
       {
