@@ -15,7 +15,7 @@ hero:
       link: /code-standards/js-ts
     - theme: alt
       text: 经验分享
-      link: /expirents/code-habit
+      link: /experience/code-habit
 
 features:
   - title: 规范
