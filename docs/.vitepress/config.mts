@@ -41,6 +41,19 @@ export default defineConfig({
           },
         ],
       },
+      {
+        text: '经验分享',
+        items: [
+          {
+            txt: '编程习惯',
+            link: '/experience/code-habit',
+          },
+          {
+            txt: 'vscode 配置指南',
+            link: '/experience/vscode-config-guide',
+          },
+        ]
+      }
     ],
     socialLinks: [{ icon: 'github', link: 'https://github.com/LiRenTech' }],
     search: {
