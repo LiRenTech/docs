@@ -4,33 +4,33 @@
 
 ### 颜色主题
 
-ZTY推荐：Codemos Modern
+ZTY 推荐：Codemos Modern
 
 支持浅色和深色，可通过命令面板高度自定义
 
 ### 文件图标主题
 
-ZTY推荐：Material Icon Theme
+ZTY 推荐：Material Icon Theme
 
-material设计风格，特殊文件夹有对应的图标
+material 设计风格，特殊文件夹有对应的图标
 
 ## 代码样式
 
 代码格式化：Prettier
 
-EditorConfig支持：EditorConfig for VS Code
+EditorConfig 支持：EditorConfig for VS Code
 
 彩虹缩进：rainbow-indent
 
-高光标记TODO注释：Better Comments
+高光标记 TODO 注释：Better Comments
 
 在行尾显示报错信息：Error Lens
 
 拼写错误检查：Code Spell Checker （非常推荐，以防拼错变量名）
 
-toml格式文件支持：Even Better TOML （Rust开发必备）
+toml 格式文件支持：Even Better TOML （Rust 开发必备）
 
-env格式支持：DotENV
+env 格式支持：DotENV
 
 ## Git
 
@@ -42,13 +42,13 @@ env格式支持：DotENV
 
 ## 协作
 
-目前vscode只有一款协作插件：Live share
+目前 vscode 只有一款协作插件：Live share
 
 ## AI
 
-ZTY推荐：CodeGeeX
+ZTY 推荐：CodeGeeX
 
-Littlefean推荐：FittenCode
+Littlefean 推荐：FittenCode
 
 两者差不多，有利有弊
 
@@ -56,7 +56,7 @@ Littlefean推荐：FittenCode
 
 音频预览：audio-preview
 
-16进制：Hex Editor
+16 进制：Hex Editor
 
 Word,Excel,pdf,csv：Office Viewer
 
@@ -76,11 +76,9 @@ Paste Json as Code（我好像没怎么用过，但列表里一直有这个，�
 
 写算法题实时输出：AREPL for python
 
-html实时刷新：Live Server
+html 实时刷新：Live Server
 
 画图：Excalidraw
-
-
 
 ## 待搜索的
 

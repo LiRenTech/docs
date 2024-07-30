@@ -18,13 +18,9 @@
 
 ![fix-bug.jpg](https://s2.loli.net/2024/07/29/Fups7gcIW6tLndN.jpg)
 
-ts时出现各种any：
+ts 时出现各种 any：
 
 ![typescript-any.jpg](https://s2.loli.net/2024/07/29/UDypxLJYEzBZeFg.jpg)
-
-
-
-
 
 ## 好习惯
 
@@ -33,8 +29,3 @@ ts时出现各种any：
 ![difference.jpg](https://s2.loli.net/2024/07/29/WpMbU9lSHweEDjq.jpg)
 
 所以在编程时要尽量多考虑到用户的不同情况。
-
-
-
-
-
