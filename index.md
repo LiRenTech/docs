@@ -13,6 +13,10 @@ hero:
     - theme: alt
       text: 开发
       link: /dev
+    - theme: alt
+      text: 团队活动
+      link: /team-activities
+    
   image:
     src: /logo.jpg
     alt: Logo

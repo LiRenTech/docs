@@ -10,6 +10,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '介绍', link: '/intro' },
       { text: '开发', link: '/dev/' },
+      { text: '团队', link: '/team-activities/' },
       { text: 'Visual File', link: '/visual-file/' },
     ],
     logo: '/logo.jpg',
@@ -58,6 +59,12 @@ export default defineConfig({
               link: 'vscode-config-guide',
             },
           ],
+        },
+      ],
+      'team-activities': [
+        {
+          text: '团队活动',
+          link: '/team-activities/',
         },
       ],
       'visual-file': [
