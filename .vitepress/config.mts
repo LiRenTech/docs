@@ -64,11 +64,15 @@ export default defineConfig({
       'team-activities': [
         {
           text: '团队活动',
-          link: 'team-activities/team-activities/',
+          base: '/team-activities/',
           items: [
             {
               text: '灵感和头脑风暴',
               link: 'ideas-and-brainstorming',
+            },
+            {
+              text: 'Minecraft服务器',
+              link: 'minecraft',
             }
           ]
         },
