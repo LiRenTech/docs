@@ -64,7 +64,13 @@ export default defineConfig({
       'team-activities': [
         {
           text: '团队活动',
-          link: '/team-activities/',
+          link: 'team-activities/team-activities/',
+          items: [
+            {
+              text: '灵感和头脑风暴',
+              link: 'ideas-and-brainstorming',
+            }
+          ]
         },
       ],
       'visual-file': [
