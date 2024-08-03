@@ -58,6 +58,10 @@ export default defineConfig({
               text: 'VS Code 配置指南',
               link: 'vscode-config-guide',
             },
+            {
+              text: '项目好坏评价标准',
+              link: 'project-score',
+            },
           ],
         },
       ],
