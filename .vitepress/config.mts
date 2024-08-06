@@ -65,7 +65,7 @@ export default defineConfig({
             {
               text: '视频剪辑与发布经验',
               link: 'video-making',
-            }
+            },
           ],
         },
       ],
@@ -81,8 +81,8 @@ export default defineConfig({
             {
               text: 'Minecraft服务器',
               link: 'minecraft',
-            }
-          ]
+            },
+          ],
         },
       ],
       'visual-file': [
@@ -103,10 +103,14 @@ export default defineConfig({
       text: '编辑页面',
       pattern: 'https://github.com/LiRenTech/docs/edit/master/docs/:path',
     },
+    lastUpdated: {
+      text: '上次更新',
+    },
   },
   markdown: {
     image: {
       lazyLoading: true,
     },
   },
+  lastUpdated: true,
 });
