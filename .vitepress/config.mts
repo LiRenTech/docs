@@ -62,6 +62,10 @@ export default defineConfig({
               text: '项目好坏评价标准',
               link: 'project-score',
             },
+            {
+              text: '视频剪辑与发布经验',
+              link: 'video-making',
+            }
           ],
         },
       ],
