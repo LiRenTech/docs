@@ -99,7 +99,7 @@ export default defineConfig({
         },
         {
           text: '开发指南',
-          link: '/project-graph/CONTRIBUTING',
+          link: '/project-graph/contributing',
         },
       ],
     },
