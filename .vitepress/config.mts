@@ -12,8 +12,9 @@ export default defineConfig({
       { text: '开发', link: '/dev/' },
       { text: '团队', link: '/team-activities/' },
       { text: 'Visual File', link: '/visual-file/' },
+      { text: 'Project Graph', link: '/project-graph/' },
     ],
-    logo: '/logo.jpg',
+    logo: '/logo.png',
     sidebar: {
       dev: [
         {
@@ -89,6 +90,16 @@ export default defineConfig({
         {
           text: 'Visual File',
           link: '/visual-file/',
+        },
+      ],
+      'project-graph': [
+        {
+          text: 'Project Graph',
+          link: '/project-graph/',
+        },
+        {
+          text: '开发指南',
+          link: '/project-graph/CONTRIBUTING',
         },
       ],
     },
