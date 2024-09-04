@@ -19,6 +19,28 @@ pdm install
 pdm start
 ```
 
+### 如果是 Linux
+
+运行项目后会问你是否修复 fcitx5，如果你使用的是 fcitx5 输入法，输入 `y` 以修复无法在应用中输入中文的问题。
+
+当然你也可以不修复，使用系统的 PyQt5 库，也可以解决输入法问题。
+
+#### Arch Linux
+
+```sh
+sudo pacman -S pyqt5
+sudo rm -rf ./.venv/lib/python3.12/site-packages/PyQt5
+sudo cp -r /usr/lib/python3.12/site-packages/PyQt5 ./.venv/lib/python3.12/site-packages/
+```
+
+#### Ubuntu
+
+```sh
+sudo apt-get install python3-pyqt5
+sudo rm -rf ./.venv/lib/python3.12/site-packages/PyQt5
+sudo cp -r /usr/lib/python3.12/site-packages/PyQt5 ./.venv/lib/python3.12/site-packages/
+```
+
 ## 如何打包
 
 启发来自于 b 站评论区
