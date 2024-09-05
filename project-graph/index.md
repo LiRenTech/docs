@@ -1,8 +1,8 @@
 # Project Graph
 
-[![GitHub License](https://img.shields.io/github/license/LiRenTech/project-graph-qt)](https://github.com/LiRenTech/project-graph-qt/blob/master/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/LiRenTech/project-graph)](https://github.com/LiRenTech/project-graph/blob/master/LICENSE)
 
-[![GitHub](https://img.shields.io/badge/GitHub-LiRenTech/project--graph--qt-blue)](https://github.com/LiRenTech/project-graph-qt)
+[![GitHub](https://img.shields.io/badge/GitHub-LiRenTech/project--graph-blue)](https://github.com/LiRenTech/project-graph)
 
 加入群组:
 
@@ -12,9 +12,9 @@
 
 ## ⬇️ 下载
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LiRenTech/project-graph-qt/package.yml)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LiRenTech/project-graph/package.yml)
 
-[🐧 下载 Linux 版](https://nightly.link/LiRenTech/project-graph-qt/workflows/package/master/project-graph_linux.zip) | [🪟 下载 Windows 版](https://nightly.link/LiRenTech/project-graph-qt/workflows/package/master/project-graph_windows.zip)
+[🐧 下载 Linux 版](https://nightly.link/LiRenTech/project-graph/workflows/package/master/project-graph_linux.zip) | [🪟 下载 Windows 版](https://nightly.link/LiRenTech/project-graph/workflows/package/master/project-graph_windows.zip)
 
 ### ➡️ Linux 一键安装
 
