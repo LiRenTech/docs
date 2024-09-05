@@ -139,10 +139,10 @@ Linux: `~/.local/share/project-graph` [（可自定义）](https://specification
 
 ## ⭐ Star History
 
-<a href="https://star-history.com/#LiRenTech/project-graph-qt&Date">
+<a href="https://star-history.com/#LiRenTech/project-graph&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=LiRenTech/project-graph-qt&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=LiRenTech/project-graph-qt&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=LiRenTech/project-graph-qt&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=LiRenTech/project-graph&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=LiRenTech/project-graph&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=LiRenTech/project-graph&type=Date" />
  </picture>
 </a>
