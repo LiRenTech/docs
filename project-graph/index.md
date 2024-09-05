@@ -1,11 +1,18 @@
 # Project Graph
 
-GitHub 仓库: [LiRenTech/project-graph-qt](https://github.com/LiRenTech/project-graph-qt)
+[![GitHub License](https://img.shields.io/github/license/LiRenTech/project-graph-qt)](https://github.com/LiRenTech/project-graph-qt/blob/master/LICENSE)
 
-![GitHub License](https://img.shields.io/github/license/LiRenTech/project-graph-qt)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LiRenTech/project-graph-qt/package.yml)
+[![GitHub](https://img.shields.io/badge/GitHub-LiRenTech/project--graph--qt-blue)](https://github.com/LiRenTech/project-graph-qt)
+
+加入群组:
+
+[![QQ](https://img.shields.io/badge/QQ-972047940-blue?logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?k=JhBzlIcXYTIl__OBmwbPvuEy1WvCCMpB&jump_from=webapi&authKey=RCAeyW+JNYRw2Cav5tvyX4/TazY/FDDkBRknJ5YAVBKHu+btBFXOclpdK1F8dMOq)
+
+[![Discord](https://img.shields.io/discord/1281228823844880437?logo=discord&label=Discord&cacheSeconds=0)](https://discord.gg/Fr9Th2FQYB)
 
 ## ⬇️ 下载
+
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LiRenTech/project-graph-qt/package.yml)
 
 [🐧 下载 Linux 版](https://nightly.link/LiRenTech/project-graph-qt/workflows/package/master/project-graph_linux.zip) | [🪟 下载 Windows 版](https://nightly.link/LiRenTech/project-graph-qt/workflows/package/master/project-graph_windows.zip)
 
@@ -53,11 +60,11 @@ Xmind 只能用来绘制树形结构图、FigJam 可以用来绘制但网页打�
 1. 创建节点：双击空白部分
 2. 编辑节点名称：双击节点，出现输入框，输入确认
 3. 编辑节点详情：按住 Ctrl 键双击节点，输入多行文本确认，鼠标悬浮在节点上的时候即可看到详情
-4. 旋转节点：对准一个节点按住Ctrl键 旋转滚轮，会带动整个“子树”转动
+4. 旋转节点：对准一个节点按住 Ctrl 键 旋转滚轮，会带动整个“子树”转动
 5. 移动节点：左键拖拽一个节点，但按住 Ctrl 键可以带动所有子节点拖动整个树
 6. 框选多个节点：鼠标左键在空白区域拖拽出一个框选
 7. 删除节点：同样使用切割线切节点来删除，也可以框选很多节点后按 Delete 键删除或点击删除图标
-8. 复制多个节点：框选一些节点，按住Alt键+鼠标左键拖拽
+8. 复制多个节点：框选一些节点，按住 Alt 键+鼠标左键拖拽
 
 连线：
 
@@ -78,22 +85,22 @@ Xmind 只能用来绘制树形结构图、FigJam 可以用来绘制但网页打�
 
 导出保存：
 
-1. 菜单栏种保存：保存成的各式是json格式。
-2. 导出一定格式的纯文本：供发送给其他大模型AI分析总结内容
+1. 菜单栏种保存：保存成的各式是 json 格式。
+2. 导出一定格式的纯文本：供发送给其他大模型 AI 分析总结内容
 
 导入：
 
-1. 文件导入：在文件夹导入json文件
+1. 文件导入：在文件夹导入 json 文件
 2. 根据文本生成：通过一定格式的纯文本，粘贴进来，生成节点图
-3. 拖拽附加：拖拽json文件附加图到当前场景中，可以和原有的图组合成新的大图
+3. 拖拽附加：拖拽 json 文件附加图到当前场景中，可以和原有的图组合成新的大图
 
 风格切换：
 
-1. 德古拉灰：常用的灰色背景，防止刺眼，来源于IDE风格中的：Dracula
+1. 德古拉灰：常用的灰色背景，防止刺眼，来源于 IDE 风格中的：Dracula
 2. 论文白：专门为毕业论文或者正经文档里里，截图放插图用，纯白背景，方便打印
 3. 马卡龙色系：可爱风格
 4. 黑客帝国：让你路过的舍友感觉你好像在搞什么高级的东西
-5. 科技蓝：来自于Vscode默认配色
+5. 科技蓝：来自于 Vscode 默认配色
 6. Catppuccin Mocha：来自于一个设计师的配色
 
 b 站视频介绍：https://www.bilibili.com/video/BV1hmHKeDE9D
