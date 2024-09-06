@@ -112,7 +112,7 @@ export default defineConfig({
     },
     editLink: {
       text: '编辑页面',
-      pattern: 'https://github.com/LiRenTech/docs/edit/master/docs/:path',
+      pattern: 'https://github.com/LiRenTech/docs/edit/master/:path',
     },
     lastUpdated: {
       text: '上次更新',
