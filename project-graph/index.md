@@ -19,7 +19,7 @@
 ### ➡️ Linux 一键安装
 
 ```sh
-curl -sL https://github.com/LiRenTech/project-graph-qt/raw/master/install.sh | sudo sh
+curl -L https://raw.githubusercontent.com/LiRenTech/project-graph/master/install.sh | sudo sh
 ```
 
 ## ❓ 介绍与用途
