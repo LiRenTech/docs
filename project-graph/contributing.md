@@ -41,6 +41,10 @@ sudo rm -rf ./.venv/lib/python3.12/site-packages/PyQt5
 sudo cp -r /usr/lib/python3.12/site-packages/PyQt5 ./.venv/lib/python3.12/site-packages/
 ```
 
+### 使用 AI 功能
+
+复制 `.env.example` 到 `.env` 文件，并修改 `ARK_API_KEY` 变量的值为你的 API 密钥。
+
 ## 如何打包
 
 启发来自于 b 站评论区

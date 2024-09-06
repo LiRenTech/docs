@@ -4,15 +4,11 @@
 
 ### 颜色主题
 
-ZTY 推荐：Codemos Modern
-
-支持浅色和深色，可通过命令面板高度自定义
+ZTY 推荐：Catppuccin Mocha
 
 ### 文件图标主题
 
-ZTY 推荐：Material Icon Theme
-
-material 设计风格，特殊文件夹有对应的图标
+ZTY 推荐：Catppuccin Icons Mocha
 
 ## 代码样式
 
@@ -34,7 +30,7 @@ env 格式支持：DotENV
 
 ## Git
 
-历史线路图直观查看：Git Graph（有试用期）
+历史线路图直观查看：Git Graph 或者 GitLens (在 public 仓库上无需购买 pro 即可使用)
 
 显示文件编辑历史：GitLens
 
