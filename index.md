@@ -18,7 +18,7 @@ hero:
       link: /team-activities
 
   image:
-    src: /logo.jpg
+    src: /logo.png
     alt: Logo
 
 features:
