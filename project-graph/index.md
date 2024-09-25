@@ -6,7 +6,7 @@
 
 加入群组:
 
-[![QQ](https://img.shields.io/badge/QQ-972047940-blue?logo=tencentqq)](https://qm.qq.com/cgi-bin/qm/qr?k=JhBzlIcXYTIl__OBmwbPvuEy1WvCCMpB&jump_from=webapi&authKey=RCAeyW+JNYRw2Cav5tvyX4/TazY/FDDkBRknJ5YAVBKHu+btBFXOclpdK1F8dMOq)
+QQ交流反馈群：1006956704
 
 [![Discord](https://img.shields.io/discord/1281228823844880437?logo=discord&label=Discord&cacheSeconds=0)](https://discord.gg/Fr9Th2FQYB)
 
