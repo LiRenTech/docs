@@ -18,8 +18,9 @@ hero:
       link: /team-activities
 
   image:
-    src: /logo.png
+    src: /logo.svg
     alt: Logo
+    sh
 
 features:
   - title: Visual File

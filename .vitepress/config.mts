@@ -14,7 +14,7 @@ export default defineConfig({
       { text: 'Visual File', link: '/visual-file/' },
       { text: 'Project Graph', link: '/project-graph/' },
     ],
-    logo: '/logo.png',
+    logo: '/logo.svg',
     sidebar: {
       dev: [
         {
@@ -80,7 +80,7 @@ export default defineConfig({
               link: 'ideas-and-brainstorming',
             },
             {
-              text: 'Minecraft服务器',
+              text: 'Minecraft 服务器',
               link: 'minecraft',
             },
           ],
@@ -98,8 +98,26 @@ export default defineConfig({
           link: '/project-graph/',
         },
         {
-          text: '开发指南',
-          link: '/project-graph/contributing',
+          text: 'v2',
+          items: [
+            {
+              text: 'Project Graph v2',
+              link: '/project-graph/v2/',
+            },
+          ],
+        },
+        {
+          text: 'v1',
+          items: [
+            {
+              text: 'Project Graph v1',
+              link: '/project-graph/v1/',
+            },
+            {
+              text: '开发指南',
+              link: '/project-graph/v1/contributing',
+            },
+          ],
         },
       ],
     },
