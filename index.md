@@ -20,7 +20,6 @@ hero:
   image:
     src: /logo.svg
     alt: Logo
-    sh
 
 features:
   - title: Visual File
