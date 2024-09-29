@@ -11,7 +11,7 @@ hero:
       text: 快速开始
       link: /project-graph/v1/
     - theme: alt
-      text: v2 (beta)
+      text: v2 (pre-alpha)
       link: /project-graph/v2/
     - theme: alt
       text: GitHub
@@ -23,9 +23,11 @@ hero:
       text: Discord
       link: https://discord.gg/Fr9Th2FQYB
 
-  # image:
-  #   src: /logo.svg
-  #   alt: Logo
+  image:
+    src: /project-graph-no-bg.svg
+    alt: Logo
+    width: 200
+    height: 200
 
 features:
   - icon: 🚀
@@ -42,7 +44,7 @@ features:
 
 | 版本      | 稳定 | 支持 Windows | 支持 Linux | 支持 macOS | UI 风格 | 动画 |
 | --------- | :--: | :----------: | :--------: | :--------: | :-----: | :--: |
-| [v1](v1/) |  ✅  |      ✅      |     🔧     |     🔧     |  原生   |  ❌  |
+| [v1](v1/) |  ✅  |      ✅      |     🔧     |     🔧     |  原生   |  ❓  |
 | [v2](v2/) |  ❌  |      ✅      |     ✅     |     ✅     | 现代化  |  ✅  |
 
 ## ⭐ Star History

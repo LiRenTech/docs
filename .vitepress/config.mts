@@ -104,6 +104,10 @@ export default defineConfig({
               text: 'Project Graph v2',
               link: '/project-graph/v2/',
             },
+            {
+              text: '开发指南',
+              link: '/project-graph/v2/contributing',
+            },
           ],
         },
         {
