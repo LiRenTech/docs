@@ -34,8 +34,12 @@ export default defineConfig({
               link: 'python',
             },
             {
-              text: 'HTML',
-              link: 'html',
+              text: 'Vue',
+              link: 'vue',
+            },
+            {
+              text: 'React',
+              link: 'react',
             },
             {
               text: '命名',
@@ -99,27 +103,29 @@ export default defineConfig({
         },
         {
           text: 'v2',
+          base: '/project-graph/v2/',
           items: [
             {
               text: 'Project Graph v2',
-              link: '/project-graph/v2/',
+              link: '',
             },
             {
               text: '开发指南',
-              link: '/project-graph/v2/contributing',
+              link: 'contributing',
             },
           ],
         },
         {
           text: 'v1',
+          base: '/project-graph/v1/',
           items: [
             {
               text: 'Project Graph v1',
-              link: '/project-graph/v1/',
+              link: '',
             },
             {
               text: '开发指南',
-              link: '/project-graph/v1/contributing',
+              link: 'contributing',
             },
           ],
         },
