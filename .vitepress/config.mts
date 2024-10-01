@@ -113,6 +113,10 @@ export default defineConfig({
               text: '开发指南',
               link: 'contributing',
             },
+            {
+              text: '常见问题',
+              link: 'faq',
+            },
           ],
         },
         {
