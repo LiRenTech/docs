@@ -76,14 +76,8 @@ html 实时刷新：Live Server
 
 画图：Excalidraw
 
-## 待搜索的
+生成字符画的插件，用于大型醒目注释或者控制台打印欢迎信息：FIGlet
 
-是否有生成字符画的插件，用于大型醒目注释或者控制台打印欢迎信息
+用字符网格绘制流程图的，可以用于在代码的注释文档里画点小图：Asciiflow2
 
-[Text to ASCII Art Generator (TAAG) (patorjk.com)](https://patorjk.com/software/taag/#p=testall&f=Graffiti&t=autoera)
-
-是否有用字符网格绘制流程图的，可以用于在代码的注释文档里画点小图
-
-https://asciiflow.com/#/
-
-是否有保护身体健康有关的插件，隔一段时间提醒不要久坐、看看远处等等的插件
+保护身体健康有关的插件，隔一段时间提醒不要久坐、看看远处等等的插件：Routine Reminder
