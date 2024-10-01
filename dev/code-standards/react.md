@@ -17,3 +17,15 @@
 
 - 使用 React Router
 - 使用 generouted 自动生成路由
+
+## 导出
+
+- 文件里面用export class或者export namespace， 只有组件要用export default（如果用了exportdefault,导出的东西改名字了就难搞了）
+
+## 命名
+
+- components文件夹里面的文件名都是大驼峰
+
+- pages文件夹里面的文件名都是_xxx_xxx.tsx
+
+- 具体看generouted文档
