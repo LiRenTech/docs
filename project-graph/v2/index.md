@@ -17,3 +17,5 @@ Coming s∞n
 ### Linux
 
 - webkit2gtk-4.1 2.44.4
+
+## 安装

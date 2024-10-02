@@ -56,10 +56,10 @@
 2. 安装 `pnpm`，参考 [pnpm 官方文档](https://pnpm.io/installation)
 3. 安装依赖：`pnpm install`
 4. 启动项目
-5. 桌面版：`pnpm tauri dev`
-6. Android 版：`pnpm tauri android dev`
+   - 桌面版：`pnpm tauri dev`
+   - Android 版：`pnpm tauri android dev`
 
-## 编译项目
+## 构建项目
 
 1. 桌面版：`pnpm tauri build`
 2. Android 版：`pnpm tauri android build`

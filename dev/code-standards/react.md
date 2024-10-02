@@ -20,12 +20,10 @@
 
 ## 导出
 
-- 文件里面用export class或者export namespace， 只有组件要用export default（如果用了exportdefault,导出的东西改名字了就难搞了）
+- 文件里面用 export class 或者 export namespace， 只有组件要用 export default（如果用了 exportdefault,导出的东西改名字了就难搞了）
 
 ## 命名
 
-- components文件夹里面的文件名都是大驼峰
-
-- pages文件夹里面的文件名都是_xxx_xxx.tsx
-
-- 具体看generouted文档
+- components 文件夹里面的文件名都是大驼峰
+- pages 文件夹里面的组件文件名都是\_xxx_xxx.tsx
+- 具体看 generouted 文档
