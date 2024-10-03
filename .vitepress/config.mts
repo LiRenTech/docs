@@ -107,7 +107,7 @@ export default defineConfig({
           items: [
             {
               text: 'Project Graph v2',
-              link: '',
+              link: '/',
             },
             {
               text: '开发指南',
@@ -125,7 +125,7 @@ export default defineConfig({
           items: [
             {
               text: 'Project Graph v1',
-              link: '',
+              link: '/',
             },
             {
               text: '开发指南',
