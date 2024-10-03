@@ -8,11 +8,11 @@ hero:
   tagline: '快速绘制节点图的桌面工具，可以用于项目进程拓扑图绘制、快速头脑风暴草稿。'
   actions:
     - theme: brand
-      text: 快速开始
-      link: /project-graph/v1/
-    - theme: alt
-      text: v2 (pre-alpha)
+      text: 🚀 快速开始
       link: /project-graph/v2/
+    - theme: alt
+      text: v1
+      link: /project-graph/v1/
     - theme: alt
       text: GitHub
       link: https://github.com/LiRenTech/project-graph

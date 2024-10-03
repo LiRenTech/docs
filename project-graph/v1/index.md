@@ -1,5 +1,8 @@
 # Project Graph v1 (基于 PyQt5)
 
+> [!CAUTION]
+> v1 已停止维护，请使用 v2 版本
+
 ## ⬇️ 下载
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/LiRenTech/project-graph/package.yml)
