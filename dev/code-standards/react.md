@@ -26,4 +26,5 @@
 
 - components 文件夹里面的文件名都是大驼峰
 - pages 文件夹里面的组件文件名都是\_xxx_xxx.tsx
+- core 文件夹（泛指自己编的ts库等核心文件，文件夹名用小驼峰，其内部统一用tsx文件，且tsx文件命名为大驼峰）
 - 具体看 generouted 文档
