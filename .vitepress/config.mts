@@ -23,53 +23,53 @@ export default defineConfig({
         },
         {
           text: '开发规范',
-          base: '/dev/code-standards/',
+          base: '/dev/code-standards',
           items: [
             {
               text: 'JS/TS',
-              link: 'js-ts',
+              link: '/js-ts',
             },
             {
               text: 'Python',
-              link: 'python',
+              link: '/python',
             },
             {
               text: 'Vue',
-              link: 'vue',
+              link: '/vue',
             },
             {
               text: 'React',
-              link: 'react',
+              link: '/react',
             },
             {
               text: '命名',
-              link: 'naming',
+              link: '/naming',
             },
             {
               text: 'Git',
-              link: 'git',
+              link: '/git',
             },
           ],
         },
         {
           text: '经验分享',
-          base: '/dev/experience/',
+          base: '/dev/experience',
           items: [
             {
               text: '编程习惯',
-              link: 'code-habits',
+              link: '/code-habits',
             },
             {
               text: 'VS Code 配置指南',
-              link: 'vscode-config-guide',
+              link: '/vscode-config-guide',
             },
             {
               text: '项目好坏评价标准',
-              link: 'project-score',
+              link: '/project-score',
             },
             {
               text: '视频剪辑与发布经验',
-              link: 'video-making',
+              link: '/video-making',
             },
           ],
         },
@@ -77,15 +77,15 @@ export default defineConfig({
       'team-activities': [
         {
           text: '团队活动',
-          base: '/team-activities/',
+          base: '/team-activities',
           items: [
             {
               text: '灵感和头脑风暴',
-              link: 'ideas-and-brainstorming',
+              link: '/ideas-and-brainstorming',
             },
             {
               text: 'Minecraft 服务器',
-              link: 'minecraft',
+              link: '/minecraft',
             },
           ],
         },
@@ -103,7 +103,7 @@ export default defineConfig({
         },
         {
           text: 'v2',
-          base: '/project-graph/v2/',
+          base: '/project-graph/v2',
           items: [
             {
               text: 'Project Graph v2',
@@ -111,17 +111,17 @@ export default defineConfig({
             },
             {
               text: '开发指南',
-              link: 'contributing',
+              link: '/contributing',
             },
             {
               text: '常见问题',
-              link: 'faq',
+              link: '/faq',
             },
           ],
         },
         {
           text: 'v1',
-          base: '/project-graph/v1/',
+          base: '/project-graph/v1',
           items: [
             {
               text: 'Project Graph v1',
@@ -129,7 +129,7 @@ export default defineConfig({
             },
             {
               text: '开发指南',
-              link: 'contributing',
+              link: '/contributing',
             },
           ],
         },
