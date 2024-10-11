@@ -102,6 +102,10 @@ export default defineConfig({
           link: '/project-graph/',
         },
         {
+          text: 'JSON 文档格式',
+          link: '/project-graph/json-format',
+        },
+        {
           text: 'v2',
           base: '/project-graph/v2',
           items: [

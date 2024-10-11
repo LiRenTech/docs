@@ -36,16 +36,9 @@ features:
     link: /project-graph/v1/#⌨️-操作方法
   - icon: 🆓
     title: 开源
-    details: 基于 GPL-3.0 协议开源。
+    details: 基于 MIT 协议开源。
     link: https://github.com/LiRenTech/project-graph/blob/master/LICENSE
 ---
-
-## ❓ v1 和 v2 版本的区别
-
-| 版本      | 稳定 | 支持 Windows | 支持 Linux | 支持 macOS | UI 风格 | 动画 |
-| --------- | :--: | :----------: | :--------: | :--------: | :-----: | :--: |
-| [v1](v1/) |  ✅  |      ✅      |     🔧     |     🔧     |  原生   |  ❓  |
-| [v2](v2/) |  ❌  |      ✅      |     ✅     |     ✅     | 现代化  |  ✅  |
 
 ## ⭐ Star History
 
