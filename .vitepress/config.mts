@@ -71,6 +71,10 @@ export default defineConfig({
               text: '视频剪辑与发布经验',
               link: '/video-making',
             },
+            {
+              text: '各种工具比较',
+              link: '/tools-comparison',
+            },
           ],
         },
       ],
