@@ -52,6 +52,16 @@ export default defineConfig({
           ],
         },
         {
+          text: '技术栈选择',
+          base: '/dev/tech-stack-choosing',
+          items: [
+            {
+              text: '前端相关技术栈',
+              link: '/fronted',
+            }
+          ]
+        },
+        {
           text: '经验分享',
           base: '/dev/experience',
           items: [
