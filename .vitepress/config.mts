@@ -42,12 +42,20 @@ export default defineConfig({
               link: '/react',
             },
             {
+              text: 'HTML',
+              link: '/html',
+            },
+            {
               text: '命名',
               link: '/naming',
             },
             {
               text: 'Git',
               link: '/git',
+            },
+            {
+              text: 'Markdown',
+              link: '/markdown',
             },
           ],
         },
@@ -57,7 +65,7 @@ export default defineConfig({
           items: [
             {
               text: '前端相关技术栈',
-              link: '/fronted',
+              link: '/frontend',
             }
           ]
         },
