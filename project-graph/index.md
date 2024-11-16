@@ -11,17 +11,11 @@ hero:
       text: 🚀 快速开始
       link: /project-graph/v2/
     - theme: alt
-      text: v1
-      link: /project-graph/v1/
-    - theme: alt
       text: GitHub
       link: https://github.com/LiRenTech/project-graph
     - theme: alt
       text: QQ 交流群
       link: https://qm.qq.com/cgi-bin/qm/qr?k=1Wskf2Y2KJz3ARpCgzi04y_p95a78Wku&jump_from=webapi&authKey=EkjB+oWihwZIfyqVsIv2dGrNv7bhSGSIULM3+ZLU2R5AVxOUKaIRwi6TKOHlT04/
-    - theme: alt
-      text: Discord
-      link: https://discord.gg/Fr9Th2FQYB
 
   image:
     src: /project-graph-no-bg.svg

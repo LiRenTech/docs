@@ -1,7 +1,7 @@
 # Project Graph v2 (基于 Tauri v2)
 
 [![GitHub Release](https://img.shields.io/github/v/release/LiRenTech/project-graph)](https://github.com/LiRenTech/project-graph/releases/latest)
-[![Nightly Buld](https://github.com/LiRenTech/project-graph/actions/workflows/nightly.yml/badge.svg)](https://github.com/LiRenTech/project-graph/actions/workflows/publish.yml)
+[![Nightly Build](https://github.com/LiRenTech/project-graph/actions/workflows/nightly.yml/badge.svg)](https://github.com/LiRenTech/project-graph/actions/workflows/publish.yml)
 [![Release](https://github.com/LiRenTech/project-graph/actions/workflows/release.yml/badge.svg)](https://github.com/LiRenTech/project-graph/actions/workflows/publish.yml)
 
 ## 安装

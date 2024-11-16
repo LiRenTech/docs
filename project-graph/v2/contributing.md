@@ -29,27 +29,6 @@
     └── tauri.conf.json Tauri 配置文件
 ```
 
-## 开发环境
-
-推荐开发环境:
-
-```plain
-[✔] Environment
-    - OS: Arch Linux Rolling Release x86_64 (X64)
-    ✔ webkit2gtk-4.1: 2.44.4
-    ✔ rsvg2: 2.59.0
-    ✔ rustc: 1.81.0 (eeb90cda1 2024-09-04)
-    ✔ cargo: 1.81.0 (2dbb1af80 2024-08-20)
-    ✔ rustup: 1.27.1 (2024-05-07)
-    ✔ Rust toolchain: stable-x86_64-unknown-linux-gnu (default)
-    - node: 20.17.0
-    - pnpm: 9.8.0
-    - npm: 10.8.2
-```
-
-> [!TIP]
-> 如果使用 Arch Linux，需要把 `webkit2gtk-4.1` 降级到 `2.44.4`，否则会导致无法显示窗口
-
 ## 运行项目
 
 1. 安装 Rust 工具链，参考 [Rust 官方文档](https://www.rust-lang.org/tools/install)
