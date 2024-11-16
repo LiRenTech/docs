@@ -28,6 +28,10 @@ features:
     title: 快
     details: 只需点点鼠标，即可快速绘制节点图，无需学习复杂操作。
     link: /project-graph/v1/#⌨️-操作方法
+  - icon: 💻
+    title: 跨平台
+    details: 支持 Windows、macOS、Linux 操作系统，目前正在开发 Android 版本。
+    link: /project-graph/v2/#下载
   - icon: 🆓
     title: 开源
     details: 基于 MIT 协议开源。

@@ -15,9 +15,10 @@
 
 ### Windows / MacOS / Debian
 
-- [正式版（稳定、但可能不是最新）](https://github.com/LiRenTech/project-graph/releases/latest)
-- [开发版（最新、可能有 bug）](https://github.com/LiRenTech/project-graph/releases/tag/nightly)
-  - 每天北京时间 08:00 (00:00 UTC) 自动构建
+[![Nightly Build](https://github.com/LiRenTech/project-graph/actions/workflows/nightly.yml/badge.svg)正式版（稳定、但可能不是最新）](https://github.com/LiRenTech/project-graph/releases/latest)
+[![Release](https://github.com/LiRenTech/project-graph/actions/workflows/release.yml/badge.svg)开发版（最新、可能有 bug）](https://github.com/LiRenTech/project-graph/releases/tag/nightly)
+
+> 每天北京时间 08:00 (00:00 UTC) 自动构建
 
 | 系统               | 文件名                          |
 | ------------------ | ------------------------------- |
