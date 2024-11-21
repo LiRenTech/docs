@@ -47,3 +47,7 @@ features:
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=LiRenTech/project-graph&type=Date" />
  </picture>
 </a>
+
+## 🔒 License
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLiRenTech%2Fproject-graph.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2FLiRenTech%2Fproject-graph?ref=badge_large&issueType=license)
