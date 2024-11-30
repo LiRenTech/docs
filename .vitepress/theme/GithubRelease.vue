@@ -23,7 +23,7 @@ const props = defineProps<{
   nightly: boolean;
 }>();
 
-const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = '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';
 const release = ref();
 
 onMounted(() => {
