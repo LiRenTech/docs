@@ -23,14 +23,13 @@ const props = defineProps<{
   nightly: boolean;
 }>();
 
-const GITHUB_TOKEN = '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';
 const release = ref();
 
 onMounted(() => {
   fetch(`https://proxy.zty012.de/https://api.github.com/repos/${props.repo}/releases`, {
     headers: {
       Accept: 'application/vnd.github+json',
-      Authorization: `Bearer ${GITHUB_TOKEN}`,
+      Authorization: `Bearer ${import.meta.env.VITE_GITHUB_TOKEN}`,
       'X-GitHub-Api-Version': '2022-11-28',
     },
   })

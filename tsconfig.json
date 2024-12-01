@@ -1,5 +1,8 @@
 {
   "include": ["./**/*.ts", "./**/*.vue", "./**/*.md"],
+  "compilerOptions": {
+    "types": ["vitepress/client"]
+  },
   "vueCompilerOptions": {
     "vitePressExtensions": [".md"]
   }
