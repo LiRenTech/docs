@@ -140,10 +140,6 @@ export default defineConfig({
           link: '/project-graph/faq',
         },
         {
-          text: '免责声明',
-          link: '/project-graph/disclaimer',
-        },
-        {
           text: '用户协议',
           link: '/project-graph/terms',
         },
