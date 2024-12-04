@@ -66,8 +66,8 @@ export default defineConfig({
             {
               text: '前端相关技术栈',
               link: '/frontend',
-            }
-          ]
+            },
+          ],
         },
         {
           text: '经验分享',
@@ -128,26 +128,29 @@ export default defineConfig({
           link: '/project-graph/json-format',
         },
         {
-          text: 'v2',
-          base: '/project-graph/v2',
-          items: [
-            {
-              text: 'Project Graph v2',
-              link: '/',
-            },
-            {
-              text: '开发指南',
-              link: '/contributing',
-            },
-            {
-              text: '常见问题',
-              link: '/faq',
-            },
-          ],
+          text: '安装',
+          link: '/project-graph/installation',
+        },
+        {
+          text: '开发指南',
+          link: '/project-graph/contributing',
+        },
+        {
+          text: '常见问题',
+          link: '/project-graph/faq',
+        },
+        {
+          text: '免责声明',
+          link: '/project-graph/disclaimer',
+        },
+        {
+          text: '用户协议',
+          link: '/project-graph/terms',
         },
         {
           text: 'v1',
           base: '/project-graph/v1',
+          collapsed: true,
           items: [
             {
               text: 'Project Graph v1',

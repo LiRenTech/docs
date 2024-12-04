@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 🚀 快速开始
-      link: /project-graph/v2/
+      link: /project-graph/installation
     - theme: alt
       text: GitHub
       link: https://github.com/LiRenTech/project-graph
@@ -31,7 +31,7 @@ features:
   - icon: 💻
     title: 跨平台
     details: 支持 Windows、macOS、Linux 操作系统，目前正在开发 Android 版本。
-    link: /project-graph/v2/#下载
+    link: /project-graph/installation
   - icon: 🆓
     title: 开源
     details: 基于 MIT 协议开源。
