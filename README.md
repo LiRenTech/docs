@@ -30,3 +30,6 @@ pnpm dev
 https://smms.app/
 ```
 
+## 编辑左侧目录
+
+在 .vitepress 目录下编辑 config.mts

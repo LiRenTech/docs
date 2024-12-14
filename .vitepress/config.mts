@@ -144,6 +144,25 @@ export default defineConfig({
           link: '/project-graph/terms',
         },
         {
+          text: 'v2',
+          base: '/project-graph/v2',
+          collapsed: true,
+          items: [
+            {
+              text: 'Project Graph v2',
+              link: '/',
+            },
+            {
+              text: '开发指南',
+              link: '/contributing',
+            },
+            {
+              text: '为什么重写',
+              link: '/why-rewriting',
+            }
+          ],
+        },
+        {
           text: 'v1',
           base: '/project-graph/v1',
           collapsed: true,
@@ -157,7 +176,7 @@ export default defineConfig({
               link: '/contributing',
             },
           ],
-        },
+        }
       ],
     },
     socialLinks: [{ icon: 'github', link: 'https://github.com/LiRenTech' }],
