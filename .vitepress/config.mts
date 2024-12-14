@@ -153,6 +153,10 @@ export default defineConfig({
               link: '/',
             },
             {
+              text: '自动计算引擎',
+              link: '/compute-engine',
+            },
+            {
               text: '开发指南',
               link: '/contributing',
             },
