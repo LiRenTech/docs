@@ -124,16 +124,79 @@ export default defineConfig({
           link: '/project-graph/',
         },
         {
-          text: 'JSON 文档格式',
-          link: '/project-graph/json-format',
-        },
-        {
           text: '安装',
           link: '/project-graph/installation',
         },
         {
+          text: '特性',
+          base: '/project-graph/features',
+          collapsed: false,
+          items: [
+            {
+              text: '👀 视野',
+              link: '/camera',
+            },
+            {
+              text: '📦 节点',
+              link: '/node',
+            },
+            {
+              text: '↗️ 边',
+              link: '/edge',
+            },
+            {
+              text: '📷 图片',
+              link: '/image',
+            },
+            {
+              text: '🌲 节点树',
+              link: '/tree',
+            },
+            {
+              text: '⛰️ 质点',
+              link: '/connect-point',
+            },
+            {
+              text: '□ 框',
+              link: '/section',
+            },
+            {
+              text: '📄 导出',
+              link: '/export',
+            },
+            {
+              text: '🔗 链接节点',
+              link: '/link-node',
+            },
+            {
+              text: '⚡ 快速操作',
+              link: '/quick-action',
+            },
+            {
+              text: '🧩 文件拆分和合并',
+              link: '/split-merge',
+            },
+            {
+              text: '🧮 自动计算引擎',
+              link: '/compute-engine',
+            },
+            {
+              text: '🧠 AI',
+              link: '/ai',
+            },
+          ],
+        },
+        {
+          text: '为什么重写',
+          link: '/project-graph/why-rewriting',
+        },
+        {
           text: '开发指南',
           link: '/project-graph/contributing',
+        },
+        {
+          text: 'JSON 文档格式',
+          link: '/project-graph/json-format',
         },
         {
           text: '常见问题',
@@ -142,29 +205,6 @@ export default defineConfig({
         {
           text: '用户协议',
           link: '/project-graph/terms',
-        },
-        {
-          text: 'v2',
-          base: '/project-graph/v2',
-          collapsed: true,
-          items: [
-            {
-              text: 'Project Graph v2',
-              link: '/',
-            },
-            {
-              text: '自动计算引擎',
-              link: '/compute-engine',
-            },
-            {
-              text: '开发指南',
-              link: '/contributing',
-            },
-            {
-              text: '为什么重写',
-              link: '/why-rewriting',
-            }
-          ],
         },
         {
           text: 'v1',
@@ -180,7 +220,7 @@ export default defineConfig({
               link: '/contributing',
             },
           ],
-        }
+        },
       ],
     },
     socialLinks: [{ icon: 'github', link: 'https://github.com/LiRenTech' }],

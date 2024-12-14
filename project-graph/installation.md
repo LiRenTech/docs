@@ -4,7 +4,7 @@
 
 <GithubRelease repo="LiRenTech/project-graph" />
 
-## ⚡ 开发版
+## ⚡ 开发版 (推荐)
 
 <GithubRelease repo="LiRenTech/project-graph" nightly />
 

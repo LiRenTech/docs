@@ -22,8 +22,14 @@ sudo downgrade webkit2gtk-4.1
 
 WebKit 目前不支持 Canvas 中的子像素渲染。
 
-### 缩放到一定大小后节点消失
+## macOS
 
-> Safari still can't handle canvas elements having more than 16777216 pixels. Safari simply cannot draw large canvas elements. The limit is set at 16.777. 216 pixels.
+### 显示“Project Graph 已损坏，无法打开”
 
-WebKit 目前不支持渲染超过 216px 的 Canvas 元素。
+![image](https://s2.loli.net/2024/12/14/1YmknvPljQyR98U.png)
+
+原因是开发者没有 Apple Developer Program 会员资格，请打开终端输入以下命令命令解除限制：
+
+```bash
+sudo xattr -r -d com.apple.quarantine /Applications/Project\ Graph.app
+```
