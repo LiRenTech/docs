@@ -237,6 +237,12 @@ export default defineConfig({
     lastUpdated: {
       text: '上次更新',
     },
+    outline: {
+      label: '目录',
+    },
+  },
+  sitemap: {
+    hostname: 'https://liren.zty012.de',
   },
   markdown: {
     image: {
