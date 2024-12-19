@@ -27,15 +27,15 @@ features:
   - icon: 🚀
     title: 快
     details: 只需点点鼠标，即可快速绘制节点图，无需学习复杂操作。
-    link: /project-graph/v1/#⌨️-操作方法
-  - icon: 💻
-    title: 跨平台
-    details: 支持 Windows、macOS、Linux 操作系统，目前正在开发 Android 版本。
-    link: /project-graph/installation
-  - icon: 🆓
-    title: 开源
-    details: 基于 MIT 协议开源。
-    link: https://github.com/LiRenTech/project-graph/blob/master/LICENSE
+    link: /project-graph/features/camera
+  - icon: 🧠
+    title: AI
+    details: AI 补全节点、扩展节点树，提升工作效率。
+    link: /project-graph/features/ai
+  - icon: 🧮
+    title: 计算引擎
+    details: 基于图论的计算引擎，支持节点间的各种关系计算。
+    link: /project-graph/features/compute-engine
 ---
 
 ## ⭐ Star History
