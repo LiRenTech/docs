@@ -5,6 +5,7 @@
       <VPButton theme="alt" v-else-if="asset.name.endsWith('aarch64.dmg')" text="Mac (M1)" />
       <VPButton theme="alt" v-else-if="asset.name.endsWith('x64.dmg')" text="Mac (Intel)" />
       <VPButton theme="alt" v-else-if="asset.name.endsWith('.deb')" text="Linux (deb)" />
+      <VPButton theme="alt" v-else-if="asset.name.endsWith('.apk')" text="Android" />
     </a>
   </span>
   <span v-else>
