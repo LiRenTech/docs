@@ -128,6 +128,10 @@ export default defineConfig({
           link: '/project-graph/installation',
         },
         {
+          text: '快速上手',
+          link: '/project-graph/getting-started',
+        },
+        {
           text: '特性',
           base: '/project-graph/features',
           collapsed: false,
