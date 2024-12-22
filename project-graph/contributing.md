@@ -1,47 +1,54 @@
 # 贡献指南
 
-请自行安装 `nonemoji` 工具，并使用 `nonemoji commit` 提交更改
+## 一键配置开发环境
 
-## 项目结构
+如果感觉配置过程过于麻烦，可以使用 `xlings` 工具一键安装并配置环境
 
-```plain
-.
-├── src
-│   ├── components 组件
-│   │   └── ui UI 组件
-│   ├── core 核心代码
-│   ├── pages 页面
-│   │   ├── _app.tsx 应用布局
-│   ├── types 类型定义
-│   ├── utils 工具函数
-└── src-tauri
-    ├── build.rs
-    ├── capabilities
-    │   └── default.json 定义前端的权限
-    ├── Cargo.lock
-    ├── Cargo.toml
-    ├── gen
-    │   └── android 此目录是一个 Android 项目，可以使用 Android Studio 打开
-    ├── icons 应用图标
-    ├── src 后端代码
-    │   ├── lib.rs
-    │   └── main.rs
-    └── tauri.conf.json Tauri 配置文件
+```
+xlings install
 ```
 
-## 运行项目
+> [!NOTE]
+>
+> - 目前已测试系统: [windows](https://github.com/LiRenTech/project-graph/issues/139#issuecomment-2470110723)、[ubuntu](https://github.com/LiRenTech/project-graph/issues/139#issuecomment-2474507140)
+> - [更多一键环境配置讨论](https://github.com/LiRenTech/project-graph/issues/139)
 
-1. 安装 Rust 工具链，参考 [Rust 官方文档](https://www.rust-lang.org/tools/install)
-2. 安装 `pnpm`，参考 [pnpm 官方文档](https://pnpm.io/installation)
-3. 安装依赖：`pnpm install`
-4. 启动项目
-   - 桌面版：`pnpm tauri dev`
-   - Android 版：`pnpm tauri android dev`
+## 手动配置开发环境
 
-## 构建项目
+### 安装 Rust 和 Node.js
 
-1. 桌面版：`pnpm tauri build`
-2. Android 版：`pnpm tauri android build`
+- 安装 Rust：https://www.rust-lang.org/tools/install
+- 安装 Node.js：https://nodejs.org/en/download/
+- 安装 pnpm：`npm install -g pnpm`
 
-> [!TIP]
-> 构建 Android 版需要配置应用签名，详见 [Android 应用开发](/dev/cross-platform/android)
+### 安装项目依赖
+
+```
+pnpm install
+```
+
+### 启动应用
+
+```
+pnpm tauri dev
+```
+
+> [!WARNING]
+> 此过程需要很长时间，并且会占用大量内存，请耐心等待。
+
+### 构建应用
+
+```
+pnpm tauri build
+```
+
+> [!WARNING]
+> 此过程需要很长时间，并且会占用大量内存，请耐心等待。
+
+> [!IMPORTANT]
+> 在正常情况下，你不需要手动构建应用，Github Actions 会在每天早上 8 点自动构建并发布应用。
+
+### 提交更改
+
+- 安装 Gitmoji: `pnpm install -g gitmoji-cli`
+- 提交更改: `gitmoji commit`
