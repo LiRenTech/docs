@@ -46,6 +46,10 @@ export default defineConfig({
               link: '/html',
             },
             {
+              text: 'Godot',
+              link: '/godot',
+            },
+            {
               text: '命名',
               link: '/naming',
             },
